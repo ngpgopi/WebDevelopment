@@ -6,6 +6,5 @@ The developments were done mainy using the below languages and technologies.
 2) HTML
 3) CSS
 4) Bootstrap
-5) Mongo DB
 
 The projects were developed through self-study using MDN and W3Schools as main resources.
